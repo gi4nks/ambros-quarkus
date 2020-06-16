@@ -1,0 +1,17 @@
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/commands/RunCommand.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/entities/AbstractBaseEntity.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/commands/RecallCommand.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/commands/EntryCommand.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/utils/AmbrosConfiguration.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/formatters/AbstractCommandOutputFormatter.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/services/CommandExecutorWrapper.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/commands/ConfigurationCommand.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/formatters/LastCommandOutputFormatter.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/services/CommandService.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/utils/AnsiColors.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/entities/Command.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/utils/Utilities.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/commands/LastCommand.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/commands/OutputCommand.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/commands/ReviveCommand.java
+/home/gianluca/Projects/quarkus/ambros-quarkus/src/main/java/io/streamtune/ambros/utils/StreamGobbler.java
